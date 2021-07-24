@@ -4,7 +4,7 @@ Following are the projects and their description I have done in Machine Learning
 
 ## Regression
 
-### 1. Mulitple Linear Regression
+### 1. Multiple Linear Regression
 
 - Estimated carbon dioxide emissions for cars which are still not produced.
 - Use scikit-learn to implement Multiple Linear Regression.
